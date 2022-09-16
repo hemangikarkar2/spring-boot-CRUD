@@ -1,0 +1,8 @@
+com\demo\SpringbootHibernateApplication.class
+com\demo\model\RegisterVO.class
+com\demo\service\RegisterServiceImpl.class
+com\demo\DAO\RegisterDAOImpl.class
+com\demo\repository\personRepository1.class
+com\demo\HibernateConfiguration.class
+com\demo\DAO\RegisterDAO.class
+com\demo\service\RegisterService.class
